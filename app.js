@@ -1,6 +1,6 @@
 /* Global Variables */
 
-const apiKey = '&appid=9f35ca9386c195d5fe1e93288fb70d63&units=imperial';
+const apiKey = '&appid=9....................63&units=imperial';
 const Url='http://localhost:3000/';
 
 /*  Create a new date instance dynamically with JS */
